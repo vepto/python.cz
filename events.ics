@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190710T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-07-10@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190626T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-06-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20190308T114430Z
+LAST-MODIFIED:20190308T131732Z
+DTSTAMP:20190325T225200Z
+DTSTART:20190415T160000Z
+DTEND:20190415T180000Z
+SUMMARY:PyWorking session #76
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/259592694/
+TRANSP:OPAQUE
+UID:event_wfgctqyzgbtb@meetup.com
+CATEGORIES:Computer programming,Python,Open Source,Women in Technology,Web Technology,Technology Professionals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190821T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-08-21@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190327T180000Z
+SUMMARY:Olomoucké Pyvo – PyCharm a Cookiecutters
+DESCRIPTION:Ahoj!\n\nSrovnáváme čas začátku s ostatními Pyvy\, a tak březnové Olomoucké Pyvo bude\nod 19:00. V první přednášce se dozvíte něco o editoru PyCharm a Vim:\n\n> Čím se liší vývoj v jedněch z nejrozšířenějších prostředí a to konkrétně\n> Vim a PyCharm? Pojďte si poslechnout\, čím mě který přístup zaujal a čím\n> zase ne.\n\nA další přednáška bude o nástroji Cookiecutter:\n\n> Začínáte nový projekt či aplikaci a potřebujuete zkopírovat a lehce\n> upravit spoustu nezbytných souborů? Zjednoduště si to pomocí nástroje\n> Cookiecutter a připravených templatů pro různé projekty. A naučte se\n> vytvářet i vlastní templaty pro Cookiecutter.\n\nPokud máte nějakou přednášku či téma na příště\, dejte nám vědět v\n[mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).\nA přidejte se do mailing listu pro aktuální info.\n\nTěšíme se na vaši hojnou účast!\n
+LOCATION:Picolo - Pirátské centrum Olomouc\, 8. května 522/5\, Olomouc\, 77900\, Olomouc
+URL:https://pyvo.cz/olomouc-pyvo/2019-03/
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-03-27@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190829T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-08-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190425T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-04-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190807T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-08-07@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20190308T114430Z
+LAST-MODIFIED:20190308T131830Z
+DTSTAMP:20190325T225200Z
+DTSTART:20190527T160000Z
+DTEND:20190527T180000Z
+SUMMARY:PyWorking session #79
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/259592710/
+TRANSP:OPAQUE
+UID:event_wfgctqyzhbkc@meetup.com
+CATEGORIES:Computer programming,Python,Open Source,Women in Technology,Web Technology,Technology Professionals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190515T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-05-15@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190828T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-08-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190529T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-05-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20190308T114430Z
+LAST-MODIFIED:20190308T131744Z
+DTSTAMP:20190325T225200Z
+DTSTART:20190429T160000Z
+DTEND:20190429T180000Z
+SUMMARY:PyWorking session #77
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/259592696/
+TRANSP:OPAQUE
+UID:event_wfgctqyzgbmc@meetup.com
+CATEGORIES:Computer programming,Python,Open Source,Women in Technology,Web Technology,Technology Professionals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190417T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-04-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190501T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-05-01@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190725T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-07-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20181121T115454Z
+LAST-MODIFIED:20181121T115454Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20190325T225200Z
+DTSTART;VALUE=DATE:20190614
+DTEND:20190618T000000Z
+SUMMARY:PyCon CZ 2019
+TRANSP:TRANSPARENT
+UID:2j298gbtq5cn1prgv61fqmmk0p@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20181218T130806Z
+LAST-MODIFIED:20190120T215137Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20190325T225200Z
+DTSTART;VALUE=DATE:20190405
+DTEND:20190409T000000Z
+SUMMARY:Sprint na východě
+DESCRIPTION:https://docs.google.com/spreadsheets/d/1DYVSggTkQXPjyqTQJl0TX6GSvfNi37HT_VZ8tNC_3_A/edit?usp=sharing
+LOCATION:Lískovec\, 738 01 Frýdek-Místek\, Czechia
+URL:https://docs.google.com/spreadsheets/d/1DYVSggTkQXPjyqTQJl0TX6GSvfNi37HT_VZ8tNC_3_A/edit?usp=sharing
+TRANSP:TRANSPARENT
+UID:5nc0o0v7faksgdkmp7p6mjmeak@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190627T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-06-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190403T170000Z
+SUMMARY:Ostravské Pyvo – MetaPyvo aneb Pyvo o Pyvech
+DESCRIPTION:Ahoj!\n\nDubnové Pyvo bude trošku netradiční. Povíme si něco o tom\, jak to\nvlastně celé vniklo od prvních srazů v Brně až po Pyva napříč\nrepublikou\, jaké to je Pyva organizovat\, co všechno se povedlo a\nnepovedlo a jaká nás v Ostravě čeká budoucnost.\n\nZe stejného pohledu probereme také začátečnické kurzy komunity\nPyladies.\n\nNa Pyvo přímo naváže sprint české Python komunity\, který se bude konat\nv Lískovci u Frýdku-Místku následující víkend\, ale zájemci se mohou\npřidat klidně už po Pyvu. Na sprintu se plánuje a také rovnou realizuje\nspousta aktivit napříč republikou\, diskutují se důležitá témata a\nvysedává se do noci u ohně. Vítán je každý\, kdo by rád přiložil ruku k\ndílu.\n\nPřijďte a zapojte se!\n\nTěšíme se na vás.\n
+LOCATION:V. R. Levský\, Škroupova 1114/4\, Ostrava
+URL:https://pyvo.cz/ostrava-pyvo/2019-04/
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-04-03@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190328T180000Z
+SUMMARY:Brněnské Pyvo – Učící
+DESCRIPTION:Pojďme si popovídat o učení.\nNe o tom strojovém\, které je teď tak populární\, ale o tom obyčejném\, lidském.\nJak a proč se učit programovat?\nAť už od začátků\, nebo\, když už to člověk umí\, jak se vzdělávat dál?\nJak a proč učit někoho jiného?\nKdy je dobré začít?\nTěšíme se na vás a na vaše příspěvky do diskuze!\n\n------\n\nLet's talk about learning!\nNot machine learning which is so popular nowadays\, but the normal kind – human learning.\nHow and why should you learn to program?\nHow to start? How to expand one's knowledge once you know the basics?\nHow and why to teach somebody else?\nWhen is it good to start?\nWe look forward to seeing you and your contributions to a discussion!\n
+LOCATION:ArtBar Druhý Pád\, Štefánikova 836/1\, Brno
+URL:https://pyvo.cz/brno-pyvo/2019-03/
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-03-28@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190717T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-07-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190508T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-05-08@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190424T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-04-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190731T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-07-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190619T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-06-19@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190703T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-07-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20190308T114430Z
+LAST-MODIFIED:20190308T131720Z
+SEQUENCE:5
+DTSTAMP:20190325T225200Z
+DTSTART:20190401T160000Z
+DTEND:20190401T180000Z
+SUMMARY:PyWorking session #75
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/259592689/
+TRANSP:OPAQUE
+UID:event_wfgctqyzgbcb@meetup.com
+CATEGORIES:Computer programming,Python,Open Source,Women in Technology,Web Technology,Technology Professionals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190530T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-05-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190325T225200Z
+DTSTART:20190605T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-06-05@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20190308T114430Z
+LAST-MODIFIED:20190308T131819Z
+DTSTAMP:20190325T225200Z
+DTSTART:20190513T160000Z
+DTEND:20190513T180000Z
+SUMMARY:PyWorking session #78
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/259592706/
+TRANSP:OPAQUE
+UID:event_wfgctqyzhbrb@meetup.com
+CATEGORIES:Computer programming,Python,Open Source,Women in Technology,Web Technology,Technology Professionals
+END:VEVENT
+END:VCALENDAR
